@@ -1,3 +1,3 @@
-# Template Js
+# Template Js_simple
 
-Javascript template for gauge using Taiko.
+Simple Javascript template for gauge.
