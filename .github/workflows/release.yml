@@ -25,7 +25,7 @@ jobs:
           done
           files=$(find $(pwd) -maxdepth 1 $ignored)
 
-          mkdir js
+          mkdir js_simple
           cp -r $files ./js_simple
 
           zip -r js_simple.zip ./js_simple;
